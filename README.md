@@ -19,6 +19,7 @@ Design: --
 -   Forms
 -   JS rendering (DOM)
 -   JS events
+-   localStorage
 
 
 ## 🧰 Getting Started
